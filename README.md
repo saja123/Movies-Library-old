@@ -5,7 +5,7 @@
 
 ## WRRC
 Add an image of your WRRC here
-!["WRRC"](./home/saja/Movies-Library/images/wrrc.jpeg)
+!["WRRC"](./images/wrrc.jpeg)
 
 ## Overview
 
