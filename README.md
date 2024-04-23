@@ -11,7 +11,7 @@ Add an image of your WRRC here
 
 ## Getting Started
 <!-- What are the steps that a user must take in order to build this app on their own machine and get it running? -->
-1. npm init -y // to install file package.json have information about a server
+1. npm init -y to install file package.json have information about a server
 2. npm install express cros axios 
 3. nodemon to run my server
 * HTTP request: get, post, put, delete 
@@ -22,3 +22,4 @@ Add an image of your WRRC here
 
 ## Project Features
 <!-- What are the features included in you app -->
+* make status
