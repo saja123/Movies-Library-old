@@ -1,5 +1,5 @@
 # Movies-Library
-# Project Name - Lab11
+# Project Name - Project Version
 
 **Author Name**: Saja Fawaz
 
@@ -23,3 +23,6 @@ Add an image of your WRRC here
 ## Project Features
 <!-- What are the features included in you app -->
 * make status
+
+## Project Features
+<!-- What are the features included in you app -->
