@@ -6,6 +6,8 @@ const cors = require("cors");
  dataInfo = require("./Movie_Data/data.json");
  const PORT = 3000;
  server.use(cors());
+ const axios = require("axios");
+ require('dotenv').config(); //to play require
  
  server.get("/", handleHomepage);
  server.get("/favorite", handleFavoritepage);

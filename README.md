@@ -24,5 +24,3 @@ Add an image of your WRRC here
 <!-- What are the features included in you app -->
 * make status
 
-## Project Features
-<!-- What are the features included in you app -->
